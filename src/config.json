@@ -1,6 +1,6 @@
 {
   "site": {
-    "url": "https://gyoza.lxchapu.com",
+    "url": "",
     "title": "Eliot",
     "description": "这是一个使用 Astro 和 React 开发的博客主题。",
     "keywords": "blog,Astro,theme,Eliot,博客主题",
@@ -89,7 +89,7 @@
     "perPage": 10
   },
   "footer": {
-    "startTime": "2024-04-14T00:00:00Z"
+    "startTime": "2024-08-20T00:00:00Z"
   },
   "waline": {
     "serverURL": "https://waline.lxchapu.com"

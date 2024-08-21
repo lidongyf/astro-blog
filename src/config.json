@@ -10,8 +10,8 @@
   },
   "author": {
     "name": "Eliot",
-    "twitterId": "@lxchapu",
-    "avatar": "/src/assets/marao.png"
+    "twitterId": "",
+    "avatar": "/marao.png"
   },
   "hero": {
     "name": "Eliot",
@@ -21,13 +21,13 @@
       {
         "name": "Github",
         "icon": "icon-github",
-        "url": "https://github.com/lxchapu/astro-gyoza",
+        "url": "https://github.com/lidongyf/astro-blog",
         "color": "rgb(24, 23, 23)"
       },
       {
         "name": "Email",
         "icon": "icon-mail",
-        "url": "mailto:lxchapu@outlook.com",
+        "url": "mailto:289212073@qq.com",
         "color": "rgb(212, 70, 56)"
       }
     ],

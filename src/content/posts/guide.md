@@ -61,7 +61,7 @@ pnpm preview
 ```json
 {
   "site": {
-    "url": "", // 网站地址
+    "url": "eliotblog.netlify.app", // 网站地址
     "title": "", // 网站标题
     "description": "", // 通用的网站描述 SEO
     "keywords": "", // 通用的网站关键词 SEO
